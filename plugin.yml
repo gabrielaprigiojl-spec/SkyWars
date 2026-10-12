@@ -1,0 +1,9 @@
+name: SkyWars
+version: 1.0
+main: me.skywars.SkyWars
+api-version: '26.3'
+
+commands:
+  sw:
+    description: Comando principal do SkyWars
+    usage: /sw
